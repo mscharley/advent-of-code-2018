@@ -1,4 +1,3 @@
 type t;
 
-[@bs.send]
-external toString: t => string = "";
+[@bs.send] external toString: t => string = "";
