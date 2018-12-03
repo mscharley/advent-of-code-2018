@@ -13,6 +13,11 @@ npm run build
 npm run start
 ```
 
+# Run a day
+
+```
+node ./src/D01_chronal_calibration.bs.js
+```
 
 # Editor
 If you use `vscode`, Press `Windows + Shift + B` it will build automatically
